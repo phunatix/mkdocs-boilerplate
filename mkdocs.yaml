@@ -2,3 +2,16 @@ site_name: mkdocs-boilerplate
 site_url: https://phunatix.github.io/mkdocs-boilerplate
 theme:
   name: material
+  palette:
+      - scheme: default
+        toggle:
+          icon: material/lightbulb
+          name: Switch to dark mode
+      - scheme: slate
+        toggle:
+          icon: material/lightbulb-outline
+          name: Switch to light mode
+
+# Navigation
+nav:
+  - Home: index.md
