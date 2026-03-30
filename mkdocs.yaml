@@ -1,0 +1,4 @@
+site_name: mkdocs-boilerplate
+site_url: https://phunatix.github.io/mkdocs-boilerplate
+theme:
+  name: material
